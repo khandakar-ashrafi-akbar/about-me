@@ -24,27 +24,27 @@ role: Ph.D. Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: The University of Texas at Dallas
+    url: https://csi.utdallas.edu/people/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'ashrafi@utdallas.edu'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/aninditaashrafi
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/aninditaashrafi/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://khandakar-ashrafi-akbar.github.io/about-me/
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/khandakar-ashrafi-akbar/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?user=lPz7L8kAAAAJ&hl=en
+  #- icon: academicons/orcid
+  #  url: https://orcid.org/
 
 interests:
   - Artificial Intelligence
