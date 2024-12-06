@@ -57,17 +57,17 @@ interests:
   - Human-Computer Interaction
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Ph.D. in Computer Science
+    institution: The University of Texas at Dallas
+    date_start: August 2019
+    date_end: May 2025
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: M.Sc in Computer Science
+    institution: The University of Texas at Dallas
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
