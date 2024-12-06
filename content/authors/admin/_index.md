@@ -59,8 +59,8 @@ interests:
 education:
   - area: Ph.D. in Computer Science
     institution: The University of Texas at Dallas
-    date_start: August 2019
-    date_end: May 2025
+    date_start: 2019-08-19
+    date_end: 2025-05-15
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -68,21 +68,21 @@ education:
       url: 'https://example.com'
   - area: M.Sc in Computer Science
     institution: The University of Texas at Dallas
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2019-08-19
+    date_end: 2023-05-15
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.71/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: B.Sc in Computer Science and Engineering
+    institution: Bangladesh University of Engineering and Technology
+    date_start: 2013-02-16
+    date_end: 2017-09-13
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.54/4.0
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
