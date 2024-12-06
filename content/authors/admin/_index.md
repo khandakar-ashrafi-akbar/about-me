@@ -72,7 +72,6 @@ education:
     date_end: 2023-05-15
     summary: |
       GPA: 3.71/4.0
-
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -83,7 +82,6 @@ education:
     date_end: 2017-09-13
     summary: |
       GPA: 3.54/4.0
-      
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
