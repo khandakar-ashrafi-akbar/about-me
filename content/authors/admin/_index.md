@@ -47,9 +47,14 @@ profiles:
   #  url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Data Mining
+  - Natural Language Processing
+  - Context Awareness
+  - Cybersecurity
+  - Data-Driven Security
+  - Adversarial Machine Learning
+  - Human-Computer Interaction
 
 education:
   - area: PhD Artificial Intelligence
@@ -182,5 +187,4 @@ awards:
 ---
 
 ## About Me
-
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Khandakar Ashrafi Akbar is a researcher and academic specializing in cybersecurity and machine learning, with a focus on leveraging artificial general intelligence to tackle security challenges. Pursuing a Ph.D. at The University of Texas at Dallas, he emphasizes interdisciplinary collaboration to enhance security accessibility through cost-effective, socially responsible solutions. With a strong academic foundation and contributions to prestigious conferences, his research includes threat detection, ontology design, and LLM applications in transportation. Committed to education and innovation, Akbar bridges theory and practice, optimizes AI technologies, and develops impactful, sustainable solutions.
