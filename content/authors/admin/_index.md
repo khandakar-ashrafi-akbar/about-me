@@ -61,11 +61,11 @@ education:
     institution: The University of Texas at Dallas
     date_start: 2019-08-19
     date_end: 2025-05-15
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+    #summary: |
+    #  Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    #button:
+    #  text: 'Read Thesis'
+    #  url: 'https://example.com'
   - area: M.Sc in Computer Science
     institution: The University of Texas at Dallas
     date_start: 2019-08-19
@@ -73,9 +73,13 @@ education:
     summary: |
       GPA: 3.71/4.0
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Machine Learning
+      - Statistical Methods for Data Science
+      - Big Data Analytics & Management
+      - Advanced Machine Learning in Complex Networks
+      - Social Media Analytics
+      - Natural Language Processing
+      - Cloud Computing
   - area: B.Sc in Computer Science and Engineering
     institution: Bangladesh University of Engineering and Technology
     date_start: 2013-02-16
@@ -83,9 +87,10 @@ education:
     summary: |
       GPA: 3.54/4.0
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Artificial Intelligence
+      - Pattern Recognition
+      - Digital Image Processing
+      - Computer Graphics
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
