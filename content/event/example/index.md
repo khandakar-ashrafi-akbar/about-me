@@ -56,6 +56,3 @@ slides: ""
 projects:
   - example
 ---
-
-#{{% callout note %}}
-#{{% /callout %}}
