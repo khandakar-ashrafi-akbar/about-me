@@ -208,23 +208,22 @@ awards:
   - title: Best Paper Award at COMPSAC 2018
     url: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8377722&casa_token=xSLNIvtpDq4AAAAA:a-thnn9B-QNmkM7qcaAAD21wU16XHPZQLqepKSIw6PHJ5PqSW4XlZg3Hzibi0syySIZGlKMf4Q&tag=1
     date: '2023-11-25'
-    awarder: 
-COMPSAC: Computer Software and Applications Conference
+    awarder: COMPSAC - Computer Software and Applications Conference
     icon: 
-    summary: |
+    summary:
   - title: Best Paper Award at ICISS 2021
     url: https://www.iitp.ac.in/~iciss2021/#:~:text=The%20International%20Conference%20on%20Information,December%2017%20to%2019%2C%202021.
     date: '2023-07-01'
     awarder: The International Conference on Information Systems Security (ICISS)
     icon:
-    summary: |
+    summary:
   - title: Phil Ritter Endowed Fellowship
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://engineering.utdallas.edu/academics/graduate-education/graduate-funding-opportunities/phil-ritter-scholarship/
     date: '2022-04-20'
     awarder: The University of Texas at Dallas
     icon:
-    summary: |
+    summary:
 ---
 
 ## About Me
