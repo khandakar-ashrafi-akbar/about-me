@@ -161,7 +161,7 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Cybersecurity
+      - name: terraform
         description: ''
         percent: 80
         icon: cybersec
