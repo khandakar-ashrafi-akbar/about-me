@@ -1,24 +1,28 @@
 ---
-title: Talk at UT Dallas Event
+title: Example Talk
 
-event: Women in Data Science @ UT Dallas
-event_url: https://www.youtube.com/watch?v=NRy7fx-RIgI
+event: Hugo Blox Builder Conference
+event_url: https://example.org
 
-location: Online
+location: Hugo Blox Builder HQ
 address:
-  800 W Campbell Rd, Richardson, TX 75080
+  street: 450 Serra Mall
+  city: Stanford
+  region: CA
+  postcode: '94305'
+  country: United States
 
-summary: Women in Data Science WiDS Dallas @ UT Dallas Event - March 7, 2022
-abstract: 
+summary: An example talk using Hugo Blox Builder's Markdown slides feature.
+abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-03-07T08:30:00Z'
-date_end: '2022-03-07T11:00:00Z'
+date: '2030-06-01T13:00:00Z'
+date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2012-03-07T14:31:00Z'
+publishDate: '2017-01-01T00:00:00Z'
 
 authors:
   - admin
@@ -37,10 +41,10 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: ''
+url_code: 'https://github.com'
 url_pdf: ''
-url_slides: ''
-url_video: 'https://www.youtube.com/watch?v=NRy7fx-RIgI'
+url_slides: 'https://slideshare.net'
+url_video: 'https://youtube.com'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -61,3 +65,11 @@ projects:
 {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}}
+
+Slides can be added in a few ways:
+
+- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+
+Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
