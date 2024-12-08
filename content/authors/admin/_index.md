@@ -220,7 +220,7 @@ COMPSAC: Computer Software and Applications Conference
     summary: |
   - title: Phil Ritter Endowed Fellowship
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
+    certificate_url: https://engineering.utdallas.edu/academics/graduate-education/graduate-funding-opportunities/phil-ritter-scholarship/
     date: '2022-04-20'
     awarder: The University of Texas at Dallas
     icon:
