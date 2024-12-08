@@ -71,7 +71,7 @@ education:
     date_start: 2019-08-19
     date_end: 2023-05-15
     summary: |
-      GPA: 3.71/4.0
+      GPA: 3.71/4.0 |
       Courses included:
       - Machine Learning
       - Statistical Methods for Data Science
@@ -161,15 +161,15 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Cybersecurity
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Machine Learning
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Natural Language Processing
         description: ''
         percent: 40
         icon: circle-stack
@@ -177,18 +177,18 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+      - name: Travelling
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: person-simple-walk
+      - name: Watching Sports, Movies, & Series
         description: ''
-        percent: 80
-        icon: camera
+        percent: 100
+        icon: movie
+      - name: Reading, Singing, Dancing
+        description: ''
+        percent: 100
+        icon: book
 
 languages:
   - name: English
@@ -197,37 +197,34 @@ languages:
     percent: 100
   - name: Hindi
     percent: 50
+  - name: Spanish
+    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
+  - title: Best Paper Award at COMPSAC 2018
+    url: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8377722&casa_token=xSLNIvtpDq4AAAAA:a-thnn9B-QNmkM7qcaAAD21wU16XHPZQLqepKSIw6PHJ5PqSW4XlZg3Hzibi0syySIZGlKMf4Q&tag=1
     date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+    awarder: 
+COMPSAC: Computer Software and Applications Conference
+    icon: 
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  - title: Best Paper Award at ICISS 2021
+    url: https://www.iitp.ac.in/~iciss2021/#:~:text=The%20International%20Conference%20on%20Information,December%2017%20to%2019%2C%202021.
     date: '2023-07-01'
-    awarder: edX
-    icon: edx
+    awarder: The International Conference on Information Systems Security (ICISS)
+    icon:
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
+  - title: Phil Ritter Endowed Fellowship
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+    date: '2022-04-20'
+    awarder: The University of Texas at Dallas
+    icon:
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
 ## About Me
