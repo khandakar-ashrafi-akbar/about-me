@@ -165,6 +165,8 @@ skills:
         description: ''
         percent: 80
         icon: academia
+        icon_pack: icon
+        name: Terraform
       - name: Machine Learning
         description: ''
         percent: 100
