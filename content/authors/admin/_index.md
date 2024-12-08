@@ -164,15 +164,15 @@ skills:
       - name: Cybersecurity
         description: ''
         percent: 80
-        icon: code-bracket
+        #icon: code-bracket
       - name: Machine Learning
         description: ''
         percent: 100
-        icon: chart-bar
+        #icon: chart-bar
       - name: Natural Language Processing
         description: ''
         percent: 40
-        icon: circle-stack
+        #icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -180,15 +180,15 @@ skills:
       - name: Travelling
         description: ''
         percent: 100
-        icon: person-simple-walk
+        #icon: person-simple-walk
       - name: Watching Sports, Movies, & Series
         description: ''
         percent: 100
-        icon: movie
+        #icon: movie
       - name: Reading, Singing, Dancing
         description: ''
         percent: 100
-        icon: book
+        #icon: book
 
 languages:
   - name: English
