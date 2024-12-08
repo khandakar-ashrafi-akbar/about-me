@@ -164,8 +164,6 @@ skills:
       - name: Cybersecurity
         description: ''
         percent: 80
-        icon: academia
-        icon_pack: icon
       - name: Machine Learning
         description: ''
         percent: 100

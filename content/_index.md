@@ -35,11 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+       Khandakar Ashrafi Akbar's research focuses on leveraging artificial general intelligence (AGI) and machine learning to address security and privacy challenges across diverse domains. By developing accessible and automated technologies, such as recommendation systems for software patches and system-level defense mechanisms, her work aims to make cutting-edge solutions attainable for all stakeholders, including government and socially responsible vendors. Her research emphasizes green computing, usability, and scalability, contributing to the broader goal of optimizing AGI for real-world applications and promoting "Accessible by All Security" for individuals and organizations.
     design:
       columns: '1'
   - block: collection
