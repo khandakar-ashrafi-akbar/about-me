@@ -161,6 +161,7 @@ work:
 skills:
   - name: Technical Skills
     items:
+    [[feature]]
       - name: Cybersecurity
         description: ''
         percent: 80
