@@ -92,29 +92,70 @@ education:
       - Digital Image Processing
       - Computer Graphics
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Research Assistant
+    company_name: The University of Texas at Dallas
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2023-08-15
+    date_end: 2025-05-15
+  - position: AI & Data Science Summer Associate
+    company_name: JPMorgan Chase & Co
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-06-05
+    date_end: 2023-08-11
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Understanding Data Characteristics and Analyzing their Individual/Multitudinal Behaviors
+      - Data Cleansing and Preprocessing
+      - Feature Engineering
+      - Feature Selection
+      - Model Development
+      - Model Validation
+      - Model Performance Analysis
+      - Generating Insights Based on Data and Model Observations
+  - position: Research Assistant
+    company_name: The University of Texas at Dallas
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+    date_start: 2021-08-15
+    date_end: 2023-05-15
+  - position: Teaching Assistant
+    company_name: The University of Texas at Dallas
+    company_url: ''
+    company_logo: ''
+    date_start: 2020-08-15
+    date_end: 2021-08-14
+  - position: Research Assistant
+    company_name: The University of Texas at Dallas
+    company_url: ''
+    company_logo: ''
+    date_start: 2020-05-15
+    date_end: 2020-08-14
+  - position: Teaching Assistant
+    company_name: The University of Texas at Dallas
+    company_url: ''
+    company_logo: ''
+    date_start: 2019-08-15
+    date_end: 2020-05-14
+  - position: Lecturer, Computer Science & Engineering Department
+    company_name: Northern University Bangladesh
+    company_url: ''
+    company_logo: ''
+    date_start: 2018-05-10
+    date_end: 2019-07-31
+  - position: Junior Software Engineer
+    company_name: Reve Systems
+    company_url: ''
+    company_logo: ''
+    date_start: 2017-10-02
+    date_end: 2018-05-09
+  - position: Business Intern
+    company_name: Microsoft, Bangladesh
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-04-01
+    date_end: 2016-06-30
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -152,10 +193,10 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Bengali
+    percent: 100
+  - name: Hindi
+    percent: 50
 
 # Awards.
 #   Add/remove as many awards below as you like.
