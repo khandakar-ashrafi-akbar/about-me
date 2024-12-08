@@ -1,28 +1,23 @@
 ---
-title: Example Talk
+title: Talk at UT Dallas
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: Women in Data Science at UT Dallas
+event_url: https://www.youtube.com/watch?v=NRy7fx-RIgI
 
-location: Hugo Blox Builder HQ
+location: Online
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: omen in Data Science WiDS Dallas at UT Dallas Event on March 7, 2022
+abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2022-03-07T08:30:00Z'
+date_end: '2022-03-07T11:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2022-03-07T14:31:00Z'
 
 authors:
   - admin
