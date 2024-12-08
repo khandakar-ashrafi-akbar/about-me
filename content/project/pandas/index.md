@@ -1,13 +1,8 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
-tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+title: Android Development
+external_link: https://github.com/ashrafishama/android-samples
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Android application samples showcasing different functionalities and features for learning and development purposes
 
 <!--more-->

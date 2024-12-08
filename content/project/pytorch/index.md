@@ -1,13 +1,8 @@
 ---
-title: PyTorch
-date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
-tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+title: Fake News Detection
+external_link: https://github.com/ashrafishama/colab-projects
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+Fake News Detection
 
 <!--more-->
