@@ -5,8 +5,7 @@ event: Women in Data Science at UT Dallas
 event_url: https://www.youtube.com/watch?v=NRy7fx-RIgI
 
 location: Online
-address:
-
+address: 800 W Campbell Rd, Richardson, TX 75080
 summary: Women in Data Science WiDS Dallas at UT Dallas Event on March 7, 2022
 abstract:
 
