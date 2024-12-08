@@ -207,13 +207,13 @@ languages:
 awards:
   - title: Best Paper Award at COMPSAC 2018
     url: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8377722&casa_token=xSLNIvtpDq4AAAAA:a-thnn9B-QNmkM7qcaAAD21wU16XHPZQLqepKSIw6PHJ5PqSW4XlZg3Hzibi0syySIZGlKMf4Q&tag=1
-    date: '2023-11-25'
+    date: '2018-04-15'
     awarder: COMPSAC - Computer Software and Applications Conference
     icon: 
     summary:
   - title: Best Paper Award at ICISS 2021
     url: https://www.iitp.ac.in/~iciss2021/#:~:text=The%20International%20Conference%20on%20Information,December%2017%20to%2019%2C%202021.
-    date: '2023-07-01'
+    date: '2022-02-17'
     awarder: The International Conference on Information Systems Security (ICISS)
     icon:
     summary:
