@@ -164,8 +164,7 @@ skills:
       - name: Cybersecurity
         description: ''
         percent: 80
-        icon: simple-icons
-cyberdefenders
+        icon: cybersec
       - name: Machine Learning
         description: ''
         percent: 100
