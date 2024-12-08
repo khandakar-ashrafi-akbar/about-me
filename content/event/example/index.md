@@ -40,7 +40,7 @@ image:
 url_code: ''
 url_pdf: ''
 url_slides: ''
-url_video: https://www.youtube.com/watch?v=NRy7fx-RIgI
+url_video: 'https://www.youtube.com/watch?v=NRy7fx-RIgI'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
