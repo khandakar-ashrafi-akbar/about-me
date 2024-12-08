@@ -164,7 +164,7 @@ skills:
       - name: Cybersecurity
         description: ''
         percent: 80
-        icon: terraform
+        icon: academia
       - name: Machine Learning
         description: ''
         percent: 100
