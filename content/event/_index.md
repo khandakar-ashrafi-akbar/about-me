@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: Talk at UT Dallas Event
 cms_exclude: true
 #url: talk
 
