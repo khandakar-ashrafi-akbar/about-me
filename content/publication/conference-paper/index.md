@@ -26,13 +26,13 @@ publishDate: '2024-10-11T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: TRB 2025
-publication_short: In TRB Annual Meeting 2025, National Academics
+publication: In TRB Annual Meeting 2025, National Academics
+publication_short: In *TRB*
 
 abstract:
 
 # Summary. An optional shortened abstract.
-summary: A comprehensive study of U.S. state legislations covering data security and privacy issues in the domaiin of autonomous transportation systems
+summary: A comprehensive study of U.S. state legislations covering data security and privacy issues in the domain of autonomous transportation systems
 
 tags:
   - Large Language Models
@@ -76,14 +76,14 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides:
 ---
-<!--
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
+# {{% callout note %}}
+# Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference # management software.
+# {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
--->
+# {{% callout note %}}
+C# reate your slides in Markdown - click the _Slides_ button to check out the example.
+# {{% /callout %}}
+
+# Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including
+# [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
