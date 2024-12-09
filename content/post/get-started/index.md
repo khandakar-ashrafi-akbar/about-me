@@ -1,23 +1,24 @@
 ---
-title: 🎉 Easily create your own simple yet highly customizable blog
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
-date: 2023-10-27
+title: 🎉 Attended IEEE TPS 2024
+summary: Got one paper accepted titled "LLM-Sentry - A Model-Agnostic Human-in-the-Loop Framework for Securing Large Language Models" and attended the Sixth IEEE International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications at Washington DC
+date: 2024-10-30
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: ''
 
-authors:
-  - admin
-  - Ted
+#authors:
+#  - admin
+#  - Ted
 
-tags:
-  - Academic
-  - Hugo Blox
-  - Markdown
+#tags:
+#  - Academic
+#  - Hugo Blox
+#  - Markdown
 ---
 
+<!--
 Welcome 👋
 
 {{< toc mobile_only=true is_open=true >}}
@@ -84,3 +85,4 @@ Hugo Blox and its templates come with **automatic day (light) and night (dark) m
 Copyright 2016-present [George Cushen](https://georgecushen.com).
 
 Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md) license.
+-->

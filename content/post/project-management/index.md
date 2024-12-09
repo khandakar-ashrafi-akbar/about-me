@@ -1,16 +1,16 @@
 ---
-title: ✅ Manage your projects
-summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
-date: 2023-10-23
-authors:
-  - admin
-tags:
-  - Hugo Blox
-  - Markdown
+title: Got two papers accepted at TRB 2025 and are further forwarded to TRR
+summary: Two of our papers titled "Retrieval Augmented Generation-Based Large Language Models for Bridging Transportation Cybersecurity Legal Knowledge Gaps" and "Data Security & Privacy Regulation in the U.S.; A 50-State Legislative Survey" got acceptance at TRB 2025 and are further forwarded to TRR
+date: 2024-10-11
+#authors:
+#  - admin
+#tags:
+#  - Hugo Blox
+#  - Markdown
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: ''
 ---
-
+<!--
 Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
 
 ## Ideation
@@ -92,3 +92,4 @@ renders as
 - [ ] Do something else
 
 ## Did you find this page helpful? Consider sharing it 🙌
+-->

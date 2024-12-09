@@ -1,16 +1,18 @@
 ---
-title: 🧠 Sharpen your thinking with a second brain
-summary: Create a personal knowledge base and share your knowledge with your peers.
-date: 2023-10-26
-authors:
-  - admin
-tags:
-  - Second Brain
-  - Markdown
+title: Attended TraCR 2024 Conference
+summary: Got one poster paper titled "Bridging Legal Knowledge Gaps in Cybersecurity for Connected and Automated Transportation Systems with Large Language Models" accepted and attended TraCR 2024 conference
+date: 2024-05-05
+
+#authors:
+#  - admin
+#tags:
+#  - Second Brain
+#  - Markdown
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: ''
 ---
 
+<!--
 Create a personal knowledge base and share your knowledge with your peers.
 
 Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.
@@ -136,3 +138,4 @@ A Markdown aside is useful for displaying notices, hints, or definitions to your
 {{% /callout %}}
 
 ## Did you find this page helpful? Consider sharing it 🙌
+-->
