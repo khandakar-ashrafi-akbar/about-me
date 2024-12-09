@@ -1,12 +1,13 @@
 ---
-title: 'Data Security & Privacy Regulation in the U.S. A 50-State Legislative Survey, Accepted for presentation at the TRB Annual Meeting 2024'
+title: 'Data Security & Privacy Regulation in the U.S.: A 50-State Legislative Survey'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Trayce Hockstad, Mizanur Rahman, Mashrur Chowdhury
   - admin
-  - 
+  - Md Nahiyan Uddin, Latifur Khan
 
 # Author notes (optional)
 author_notes:
