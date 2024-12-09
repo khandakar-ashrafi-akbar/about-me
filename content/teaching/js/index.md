@@ -1,15 +1,16 @@
 ---
-title: Learn JavaScript
-summary: Easily learn JavaScript in 10 minutes!
-date: 2023-10-24
+title: Big Data Security and Privacy
+summary: The Big Data Security and Privacy course at UT Dallas, developed under an NSF Grant, has been taught during Fall 2020, 2021, 2022, and 2023. It consists of six modules covering foundational concepts, cloud-based infrastructure, security functions, applications (e.g., social media), and emerging directions. Lectures are based on the Fall 2022 iteration, which underwent independent evaluation, with findings published in the *Proceedings of the IEEE Conference on Big Data Security* (May 2024).
+date: 2020-08-15
 type: docs
 math: false
 tags:
-  - JavaScript
+  - Graduate Course
 image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  caption: 'Big Data Security and Privacy Course'
 ---
 
+<!-- 
 [Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
 
 **Embed videos, podcasts, code, LaTeX math, and even test students!**
@@ -138,3 +139,4 @@ renders as
 {{< icon name="python" >}} Python
 
 ## Did you find this page helpful? Consider sharing it 🙌
+-->

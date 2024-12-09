@@ -7,7 +7,7 @@ event_url: https://www.youtube.com/watch?v=NRy7fx-RIgI
 location: Online
 address:
 
-summary: omen in Data Science WiDS Dallas at UT Dallas Event on March 7, 2022
+summary: Women in Data Science WiDS Dallas at UT Dallas Event on March 7, 2022
 abstract:
 
 # Talk start and end times.
