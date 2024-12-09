@@ -27,7 +27,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In TRB Annual Meeting 2025, National Academics
-publication_short: In *TRB*
+publication_short: TRB 2025
 
 abstract:
 
