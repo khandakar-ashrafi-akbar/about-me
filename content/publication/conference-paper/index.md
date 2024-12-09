@@ -1,19 +1,19 @@
 ---
-title: 'Data Security & Privacy Regulation in the U.S.: A 50-State Legislative Survey', Accepted for presentation at the TRB Annual Meeting 2024, and forwarded to TRR
+title: 'An example conference paper'
+
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Trayce Hockstad, Mizanur Rahman, Mashrur Chowdhury
   - admin
-  - Md Nahiyan Uddin, Latifur Khan
+  - 
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2024-10-11T00:00:00Z'
+date: '2013-07-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -45,13 +45,13 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: ''
-url_dataset: ''
+url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
-url_video: ''
+url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_video: 'https://youtube.com'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
