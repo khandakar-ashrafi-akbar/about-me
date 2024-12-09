@@ -78,7 +78,7 @@ sections:
       # Page type to display. E.g. post, talk, publication...
       page_type: post
       # Choose how many pages you would like to display (0 = all pages)
-      count: 3
+      count: 5
       # Filter on criteria
       filters:
         author: ""
@@ -100,7 +100,7 @@ sections:
         padding: [0, 0, 0, 0]
 
   - block: cta-card
-    demo: False # Only display this section in the Hugo Blox Builder demo site
+    demo: True # Only display this section in the Hugo Blox Builder demo site
     content:
       title: 👉 Build your own academic website like this
       text: |-
