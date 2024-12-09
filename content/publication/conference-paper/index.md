@@ -76,7 +76,7 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides:
 ---
-
+<!--
 # {{% callout note %}}
 # Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference # management software.
 # {{% /callout %}}
@@ -90,3 +90,4 @@ C# reate your slides in Markdown - click the _Slides_ button to check out the ex
 
 # conference-paper.pdf
 # cite.bib
+-->
