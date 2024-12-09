@@ -14,7 +14,7 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2024-10-11T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -26,13 +26,13 @@ publishDate: '2024-10-11T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: TRB 2025
+publication_short: In TRB Annual Meeting 2025, National Academics
 
 abstract:
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: A comprehensive study of U.S. state legislations covering data security and privacy issues in the domaiin of autonomous transportation systems
 
 tags:
   - Large Language Models
@@ -74,7 +74,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides:
 ---
 <!--
 {{% callout note %}}
