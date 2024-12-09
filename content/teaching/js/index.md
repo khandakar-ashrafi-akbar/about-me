@@ -1,6 +1,6 @@
 ---
 title: Big Data Security and Privacy
-summary: The Big Data Security and Privacy course at UT Dallas, developed under an NSF Grant, has been taught during Fall 2020, 2021, 2022, and 2023. It consists of six modules covering foundational concepts, cloud-based infrastructure, security functions, applications (e.g., social media), and emerging directions. Lectures are based on the Fall 2022 iteration, which underwent independent evaluation, with findings published in the *Proceedings of the IEEE Conference on Big Data Security* (May 2024).
+summary: The Big Data Security and Privacy course at UT Dallas, developed under an NSF Grant, has been taught during Fall 2020, 2021, 2022, and 2023. It consists of six modules covering foundational concepts, cloud-based infrastructure, security functions, applications (e.g., social media), and emerging directions. Lectures are based on the Fall 2022 iteration, which underwent independent evaluation, with findings published in the Proceedings of the IEEE Conference on Big Data Security (May 2024).
 date: 2020-08-15
 type: docs
 math: false
@@ -9,6 +9,9 @@ tags:
 image:
   caption: 'Big Data Security and Privacy Course'
 ---
+**Website**:
+
+    {{</*https://personal.utdallas.edu/~bxt043000/bigdatawebpage//>}}
 
 <!-- 
 [Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.

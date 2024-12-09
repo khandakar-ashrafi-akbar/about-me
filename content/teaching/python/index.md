@@ -1,13 +1,13 @@
 ---
-title: Learn Python
-summary: Easily learn Python in 10 minutes!
-date: 2023-10-24
+title: Digital Forensics
+summary: CS 4398 Digital Forensics (3 semester credit hours) Creating and preserving digital evidence, data recovery and evidence collection algorithms, evidence construction and reconstruction, methods for certifying evidence, storing evidence, data acquisition, forensic analysis algorithms, image files, network forensics, logging methods to trace back attacks and digital trails, e-mail investigations.
+date: 2019-08-15
 type: docs
 math: false
 tags:
   - Python
 image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  caption: 'Undergrad Course'
 ---
 
 <!--
