@@ -1,5 +1,5 @@
 ---
-title: Big Data Security and Privacy
+title: Teaching Assistant - Big Data Security and Privacy
 summary: The Big Data Security and Privacy course at UT Dallas, developed under an NSF Grant, has been taught during Fall 2020, 2021, 2022, and 2023. It consists of six modules covering foundational concepts, cloud-based infrastructure, security functions, applications (e.g., social media), and emerging directions. Lectures are based on the Fall 2022 iteration, which underwent independent evaluation, with findings published in the Proceedings of the IEEE Conference on Big Data Security (May 2024).
 date: 2020-08-15
 type: docs
