@@ -25,7 +25,7 @@ abstract:
 summary: A model-agnostic scheme for securing large language models with human-in-the-loop.
 
 tags:
-- Large Language Models Security
+- Large Language Models
 
 featured: true
 
