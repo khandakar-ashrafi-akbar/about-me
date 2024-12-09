@@ -1,7 +1,7 @@
 ---
-title: 📈 Communicate your results effectively with the best data visualizations
-summary: Use popular tools such as Plotly, Mermaid, and data frames.
-date: 2023-10-25
+title: Got a paper accepted at ICISS 2023!
+summary: Got a paper accepted titled "The Design and Application of a Unified Ontology for Cyber Security" at the 19th International Conference on Information and Systems Security
+date: 2023-09-27
 #authors:
 #  - admin
 #tags:

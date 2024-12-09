@@ -1,7 +1,7 @@
 ---
-title: 👩🏼‍🏫 Teach academic courses
-summary: Embed videos, podcasts, code, LaTeX math, and even test students!
-date: 2023-10-24
+title: My elder brother got married!
+summary: Congratulations to my brother, Shovan, and my sister-in-law, Tisha, on starting their life together!
+date: 2024-02-02
 #math: true
 #authors:
 #  - admin
