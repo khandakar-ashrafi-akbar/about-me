@@ -2,8 +2,7 @@
 title: "LLM-Sentry: A Model-Agnostic Human-in-the-Loop Framework for Securing Large Language Models"
 authors:
 - Saquib Irtiza
-- admin
-- Arowa Yasmeen, Latifur Khan, Ovidiu Daescu, Bhavani Thuraisingham
+- admin, Arowa Yasmeen, Latifur Khan, Ovidiu Daescu, Bhavani Thuraisingham
 
 date: "2024-10-28T00:00:00Z"
 doi: ""
@@ -30,7 +29,7 @@ tags:
 featured: False
 
 links:
-- name: Custom Link
+- name: ''
   url: ''
   url_pdf: ''
   url_code: ''
