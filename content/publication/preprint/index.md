@@ -4,20 +4,21 @@ authors:
 - Saquib Irtiza
 - admin
 - Arowa Yasmeen, Latifur Khan, Ovidiu Daescu, Bhavani Thuraisingham
+
 date: "2024-10-28T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-10-028T00:00:00Z"
+publishDate: "2024-10-28T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: The Sixth IEEE International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications
-publication_short: IEEE TPS-ISA
+publication_short: IEEE TPS ISA
 
 abstract: 
 
@@ -26,7 +27,6 @@ summary: A model-agnostic scheme for securing large language models with human-i
 
 tags:
 - Large Language Models
-
 featured: true
 
 links:
