@@ -5,9 +5,9 @@ date: 2019-08-15
 type: docs
 math: false
 tags:
-  - Python
+  - Undergrad Course
 image:
-  caption: 'Undergrad Course'
+  caption: ''
 ---
 
 <!--
