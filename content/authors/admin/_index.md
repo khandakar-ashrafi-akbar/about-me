@@ -71,7 +71,7 @@ education:
     date_start: 2019-08-19
     date_end: 2023-05-15
     summary: |
-      GPA: 3.71/4.0 |
+      GPA: 3.71/4.0 <br>
       Courses included:
       - Machine Learning
       - Statistical Methods for Data Science
@@ -85,7 +85,7 @@ education:
     date_start: 2013-02-16
     date_end: 2017-09-13
     summary: |
-      GPA: 3.54/4.0
+      GPA: 3.54/4.0 <br>
       Courses included:
       - Artificial Intelligence
       - Pattern Recognition
