@@ -29,8 +29,8 @@ abstract:
 summary: An RAG-empowered LLM to answer open-ended questions which paves the way of understanding legal loopholes in current legislations for transportation cybersecurity and data privacy
 
 tags:
-- Source Themes
-featured: false
+- Large Language Models
+featured: true
 
 # links:
 # - name: ""
