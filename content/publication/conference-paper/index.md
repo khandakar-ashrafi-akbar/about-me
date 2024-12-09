@@ -90,4 +90,6 @@ C# reate your slides in Markdown - click the _Slides_ button to check out the ex
 
 # conference-paper.pdf
 # cite.bib
+# featured.jpg
+# all these files should be under the folder conference-paper, for these resources to be reflected in the website
 -->
