@@ -1,5 +1,5 @@
 ---
-title: 🎉 Attended IEEE TPS 2024
+title: Attended IEEE TPS 2024
 summary: Got one paper accepted titled "LLM-Sentry - A Model-Agnostic Human-in-the-Loop Framework for Securing Large Language Models" and attended the Sixth IEEE International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications at Washington DC
 date: 2024-10-30
 
