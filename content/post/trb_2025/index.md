@@ -1,6 +1,6 @@
 ---
 title: Attended TRB 2025
-summary: Got two papers accepted at this year's TRB!
+summary: Attended TRB 2025 and presented our papers at Washington, D.C.!
 date: 2025-01-05
 #authors:
 #  - admin
