@@ -47,20 +47,18 @@ profiles:
   #  url: https://orcid.org/
 
 interests:
-  - Machine Learning
   - Data Mining
-  - Natural Language Processing
+  - Nuances in Natural Language Processing
   - Context Awareness
-  - Cybersecurity
-  - Data-Driven Security
+  - Usable Security
   - Adversarial Machine Learning
-  - Human-Computer Interaction
+  - Human-Factors in Computing
 
 education:
   - area: Ph.D. in Computer Science
     institution: The University of Texas at Dallas
     date_start: 2019-08-19
-    date_end: 2025-05-15
+    date_end: 2025-08-15
     #summary: |
     #  Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     #button:
@@ -226,4 +224,4 @@ awards:
 ---
 
 ## About Me
-Khandakar Ashrafi Akbar is a researcher and academic specializing in cybersecurity and machine learning, with a focus on leveraging artificial general intelligence to tackle security challenges. Pursuing a Ph.D. at The University of Texas at Dallas, she emphasizes interdisciplinary collaboration to enhance security accessibility through cost-effective, socially responsible solutions. With a strong academic foundation and contributions to prestigious conferences, her research includes threat detection, ontology design, and LLM applications in transportation. Committed to education and innovation, Ashrafi bridges theory and practice, optimizes AI technologies, and develops impactful, sustainable solutions.
+Khandakar Ashrafi Akbar is a researcher and academic specializing in cybersecurity and machine learning, currently pursuing a Ph.D. at The University of Texas at Dallas. Her research centers on usable security, improving AI performance across both general and specialized domains, and exploring the nuanced factors that shape decision-making in Generative AI systems. With a strong foundation in interdisciplinary collaboration, Ashrafi integrates theory and practice to design socially responsible, cost-effective security solutions. Her work spans threat detection, ontology development, and the application of LLMs in transportation, reflecting a commitment to innovation, accessibility, and real-world impact.
