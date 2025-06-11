@@ -32,7 +32,7 @@ featured: False
 #links:
 #- name: ''
 #  url: ''
-url_pdf: ''
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/10835584'
 url_code: ''
 url_dataset: ''
 url_poster: ''
