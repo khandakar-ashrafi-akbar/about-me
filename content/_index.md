@@ -57,8 +57,10 @@ sections:
         folders:
           - publication
         exclude_featured: false
+      # Optional: Group by year
+      # group_by: year
     design:
-      view: citation
+      view: citation # Other options: card, compact, showcase
   - block: collection
     id: talks
     content:
