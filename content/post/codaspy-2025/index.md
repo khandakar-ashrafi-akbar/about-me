@@ -1,6 +1,6 @@
 ---
 title: Attended CODASPY 2025
-summary: Got a paper accepted at the co-located IWSPA workshop titlede "Enhancing Security Insights with KnowGen-RAG Combining Knowledge Graphs, LLMs, and Multimodal Interpretability"
+summary: Got a paper accepted at the co-located IWSPA workshop!
 date: 2025-06-06
 #authors:
 #  - admin
