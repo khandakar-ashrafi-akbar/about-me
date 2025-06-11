@@ -1,6 +1,6 @@
 ---
 title: Hiring students for Fall 2025 and Spring 2026!
-summary: If you are passionate about research, eager to explore impactful ideas, and committed to producing high-quality work, I would love to connect. Please feel free to reach out via my 📧 email which is ashrafi@utdallas.edu
+summary: If you are passionate about research, eager to explore impactful ideas, and committed to producing high-quality work, I would love to connect. Please feel free to reach out via my email which is ashrafi@utdallas.edu
 date: 2025-06-11
 #authors:
 #  - admin
