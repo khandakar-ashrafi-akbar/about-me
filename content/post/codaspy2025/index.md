@@ -8,8 +8,8 @@ date: 2025-06-06
 #  - Hugo
 #  - Hugo Blox
 #  - Markdown
-image:
-  caption: ''
+#image:
+#  caption: ''
 ---
 
 <!--
