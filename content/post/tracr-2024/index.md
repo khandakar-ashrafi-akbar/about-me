@@ -9,7 +9,7 @@ date: 2024-05-05
 #  - Second Brain
 #  - Markdown
 image:
-  caption: ''
+  #caption: ''
 ---
 
 <!--
