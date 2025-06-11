@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D. Candidate (Expected Date of Graduation - August 2025)
+role: Ph.D. Candidate (Expected Date of Graduation - August, 2025)
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
