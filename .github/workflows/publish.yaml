@@ -1,39 +1,53 @@
 name: Deploy website to GitHub Pages
 
 env:
+  # Set the Hugo version to be used
   WC_HUGO_VERSION: '0.136.5'
 
 on:
+  # Trigger the workflow on pushes to the main branch
   push:
     branches: ["main"]
+  # Allow manual triggering from the GitHub Actions tab
   workflow_dispatch:
 
+# Set permissions for the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   contents: read
   pages: write
   id-token: write
 
+# Allow only one concurrent deployment, cancelling older runs
 concurrency:
   group: "pages"
-  cancel-in-progress: false
+  cancel-in-progress: true # Changed to true for efficiency, cancels in-progress runs on new pushes
 
 jobs:
+  # Build job: builds the Hugo site
   build:
+    # Condition to not run on the HugoBlox template repository itself
     if: github.repository_owner != 'HugoBlox'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
+          # Fetch all history for Hugo's .GitInfo and .Lastmod features
           fetch-depth: 0
 
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+        uses: peaceiris/actions-hugo@v3 # Using v3 of actions-hugo
         with:
           hugo-version: ${{ env.WC_HUGO_VERSION }}
           extended: true
 
-      - uses: actions/cache@v3
+      - name: Setup Node.js # Added step to ensure Node.js is available for pagefind
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20' # Specify a Node.js version
+
+      - name: Cache Hugo modules
+        uses: actions/cache@v4 # Updated to cache@v4
         with:
           path: /tmp/hugo_cache_runner/
           key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.mod') }}
@@ -42,24 +56,29 @@ jobs:
 
       - name: Setup Pages
         id: pages
-        uses: actions/configure-pages@v3
+        uses: actions/configure-pages@v5 # Updated to configure-pages@v5 for latest features
 
       - name: Build with Hugo
         env:
+          # Build for production, targeting the base URL provided by the setup-pages action
           HUGO_ENVIRONMENT: production
+          HUGO_ENV: production # Some Hugo themes use this variable
         run: |
-          echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
           hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
 
       - name: Generate Pagefind search index
-        run: npx pagefind --site "public"
+        run: npx --yes pagefind --site "public" # Added --yes to ensure npx runs without prompts
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+        # This action is specifically for GitHub Pages. It leverages the v4 artifact improvements
+        # for faster, more reliable uploads. The created artifact is a compressed tarball.
+        uses: actions/upload-pages-artifact@v3 # Updated to upload-pages-artifact@v3
         with:
           path: ./public
 
+  # Deploy job: deploys the built site from the artifact to GitHub Pages
   deploy:
+    # Condition to not run on the HugoBlox template repository itself
     if: github.repository_owner != 'HugoBlox'
     environment:
       name: github-pages
@@ -69,4 +88,6 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        # This action handles the deployment of the artifact to GitHub Pages.
+        # It is now the standard way to complete the deployment process.
+        uses: actions/deploy-pages@v4 # Updated to deploy-pages@v4
