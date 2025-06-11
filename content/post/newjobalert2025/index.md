@@ -1,6 +1,6 @@
 ---
 title: I will be joining Towson University as an Assistant Professor starting Fall 2025!
-date: 2025-08-18
+date: 2025-04-03
 authors:
   - admin # Assuming you are the primary author
 
